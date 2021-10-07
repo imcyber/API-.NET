@@ -1,0 +1,17 @@
+C:\Curso_api\src\api.service\bin\Debug\net5.0\service.deps.json
+C:\Curso_api\src\api.service\bin\Debug\net5.0\service.dll
+C:\Curso_api\src\api.service\bin\Debug\net5.0\ref\service.dll
+C:\Curso_api\src\api.service\bin\Debug\net5.0\service.pdb
+C:\Curso_api\src\api.service\obj\Debug\net5.0\service.csproj.AssemblyReference.cache
+C:\Curso_api\src\api.service\obj\Debug\net5.0\service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso_api\src\api.service\obj\Debug\net5.0\service.AssemblyInfoInputs.cache
+C:\Curso_api\src\api.service\obj\Debug\net5.0\service.AssemblyInfo.cs
+C:\Curso_api\src\api.service\obj\Debug\net5.0\service.csproj.CoreCompileInputs.cache
+C:\Curso_api\src\api.service\obj\Debug\net5.0\service.dll
+C:\Curso_api\src\api.service\obj\Debug\net5.0\ref\service.dll
+C:\Curso_api\src\api.service\obj\Debug\net5.0\service.pdb
+C:\Curso_api\src\api.service\bin\Debug\net5.0\data.dll
+C:\Curso_api\src\api.service\bin\Debug\net5.0\Domain.dll
+C:\Curso_api\src\api.service\bin\Debug\net5.0\Domain.pdb
+C:\Curso_api\src\api.service\bin\Debug\net5.0\data.pdb
+C:\Curso_api\src\api.service\obj\Debug\net5.0\service.csproj.CopyComplete
