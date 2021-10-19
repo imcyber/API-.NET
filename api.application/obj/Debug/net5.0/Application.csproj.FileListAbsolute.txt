@@ -60,3 +60,10 @@ C:\Curso_api\src\api.application\bin\Debug\net5.0\CrossCutting.pdb
 C:\Curso_api\src\api.application\bin\Debug\net5.0\data.pdb
 C:\Curso_api\src\api.application\bin\Debug\net5.0\AutoMapper.dll
 C:\Curso_api\src\api.application\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Curso_api\src\api.application\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Curso_api\src\api.application\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Curso_api\src\api.application\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Curso_api\src\api.application\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Curso_api\src\api.application\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Curso_api\src\api.application\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Curso_api\src\api.application\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
