@@ -11,14 +11,14 @@ namespace api.data.Mapping
 
             builder.HasKey(u => u.Id);
 
-            builder.HasIndex(u => u.Email)
+            builder.HasIndex(u => u.email)
                 .IsUnique();
 
-            builder.Property(u => u.Name)
+            builder.Property(u => u.name)
                 .IsRequired()
                 .HasMaxLength(60);
 
-            builder.Property(u => u.Email)
+            builder.Property(u => u.email)
                 .HasMaxLength(100);
 
         }

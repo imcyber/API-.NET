@@ -18,7 +18,7 @@ namespace api.data.Implementations
 
         public async Task<UserEntity> FindByLogin(string email)
         {
-            return await _dataset.FirstOrDefaultAsync(u => u.Email.Equals(email));
+            return await _dataset.FirstOrDefaultAsync(u => u.email.Equals(email));
         }
     }
 }

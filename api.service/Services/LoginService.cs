@@ -54,7 +54,7 @@ namespace api.service.Services
                 else
                 {
                     ClaimsIdentity identity = new ClaimsIdentity(
-                        new GenericIdentity(baseUser.Email),
+                        new GenericIdentity(baseUser.email),
                         new[]
                         {
                             new Claim(JwtRegisteredClaimNames.Jti, Guid.NewGuid().ToString()), // JTI eh o id do token
@@ -106,8 +106,8 @@ namespace api.service.Services
                 created = createDate.ToString("yyyy-MM-dd HH:mm:ss"),
                 expiration = expirationDate.ToString("yyyy-MM-dd HH:mm:ss"),
                 acessToken = token,
-                username = user.Email,
-                name = user.Name,
+                username = user.email,
+                name = user.name,
                 message = "Logado com sucesso"
             };
         }
